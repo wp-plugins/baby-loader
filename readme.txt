@@ -2,7 +2,7 @@
 Contributors: awayken
 Tags: baby, sidebar, widget
 Requires at least: 3.3.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 
 Displays a progress bar for your fetus.
